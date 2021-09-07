@@ -1,7 +1,7 @@
-# Running
+# Running example
 ```shell
 npm install
-WALLET_PRIVATE_KEY=0x1d9af4................ npx ts-node src/index.ts
+WALLET_PRIVATE_KEY=0x1d9af4................ npx ts-node src/testnet.ts
 ```
 
 # Goerli Contract Addresses
